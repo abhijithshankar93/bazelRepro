@@ -1,0 +1,5 @@
+java_library(
+    name = "company_domain_utils_lib",
+    srcs = glob(["*.java"]),
+    visibility = ["//visibility:public"],
+)

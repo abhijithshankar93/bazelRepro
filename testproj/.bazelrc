@@ -1,0 +1,4 @@
+common --noenable_bzlmod
+common --enable_workspace
+common --color=yes
+common --enable_platform_specific_config

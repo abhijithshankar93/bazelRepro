@@ -1,0 +1,13 @@
+directories:
+  java
+  com
+
+targets:
+  //java/...
+  //com/...
+
+additional_languages:
+  java
+
+build_flags:
+  --keep_going

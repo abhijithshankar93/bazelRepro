@@ -1,0 +1,6 @@
+java_library(
+    name = "access_tokens",
+    srcs = glob(["*.java"]),
+    visibility = ["//visibility:public"],
+    deps = [],
+)

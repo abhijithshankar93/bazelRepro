@@ -1,0 +1,5 @@
+java_library(
+    name = "processors_v2",
+    srcs = glob(["*.java"]),
+    visibility = ["//visibility:public"],
+)

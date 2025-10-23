@@ -1,0 +1,5 @@
+java_library(
+    name = "permissions_lib",
+    srcs = glob(["*.java"]),
+    visibility = ["//visibility:public"],
+)
