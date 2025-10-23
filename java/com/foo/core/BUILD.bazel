@@ -1,4 +1,5 @@
-ga     name = "auth",
+java_library(
+    name = "auth",
     srcs = glob(["*.java"]),
     visibility = ["//visibility:public"],
     deps = [],
