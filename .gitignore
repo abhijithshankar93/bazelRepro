@@ -1,0 +1,4 @@
+# Ignore Bazel output symlinks/directories created in the workspace root
+bazel-*
+
+
